@@ -21,3 +21,6 @@ In September 2011, I began studying European Social and Political Studies at Uni
 Whilst working, I've ensured that I keep up with current affairs and academic reading. In my spare time, I enjoy reading political magazines and journals, attending open lectures at the LSE and reading academic materials in both politics and philosophy. Based upon the latest worldwide events, my academic knowledge and my opinions, I frequently write online articles analysing philosophical and political, considering and evaluating the arguments on each side and putting forward my own original ideas. I’m an active member of London’s technology community, releasing my work into the public domain, I take part in Labour Party activities in my local area and I regularly help out at my local church, looking after young children and studying the Bible with others.
 
 From my experience at university, I hope to gain a wide field of knowledge on my chosen subject, preparing me academically for a future career, with a view to hopefully one day becoming a politician. Beyond these specific topic areas, I look forward to having the amazing opportunity to develop my skills at university, from argument analysis to academic research, and to fully integrating myself into university life and contributing to the community.
+
+__Words:__ 808
+__Characters:__ 4970

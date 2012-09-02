@@ -10,7 +10,11 @@ task :generate do
   
   ps = File.read("Personal statement.txt")
   template = File.read("README.md.tmpl")
-  output = template + ps
+  
+  words = `cat 'Personal Statement.txt' | wc -w`.strip
+  characters = `cat 'Personal Statement.txt' | wc -m`.strip
+  stats = "\n__Words:__ " + words + "\n__Characters:__ " + characters
+  output = template + ps + stats
   
   if File.exists?("README.md")
     File.delete("README.md")
