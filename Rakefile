@@ -1,4 +1,13 @@
 task :generate do
+  
+  # Run me - I take the readme template in Markdown 
+  # (README.md.tmpl), add the text of the current
+  # personal statement and make it into a nice full
+  # README.md to be displayed in the GitHub repo.
+  #
+  # $ rake generate
+  #
+  
   ps = File.read("Personal statement.txt")
   template = File.read("README.md.tmpl")
   output = template + ps
