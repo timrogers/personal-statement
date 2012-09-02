@@ -40,6 +40,6 @@ From my experience at university, I hope to gain a wide field of knowledge on my
 
 Beyond these specific topic areas, I look forward to having the amazing opportunity to develop my skills at university, from argument analysis to academic research, and to fully integrating myself into university life and contributing to the community.
 
-__Words:__ 795
 
+__Words:__ 795
 __Characters:__ 4912 *(too long)*
