@@ -14,6 +14,7 @@ task :generate do
   words = `cat 'Personal Statement.txt' | wc -w`.strip
   characters = `cat 'Personal Statement.txt' | wc -m`.strip
   stats = "\n__Words:__ " + words + "\n\n__Characters:__ " + characters
+  stats += " *(too long)*" if characters.to_i > 4000
   output = template + ps + stats
   
   if File.exists?("README.md")

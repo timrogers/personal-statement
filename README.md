@@ -26,4 +26,4 @@ From my experience at university, I hope to gain a wide field of knowledge on my
 
 __Words:__ 808
 
-__Characters:__ 4970
+__Characters:__ 4970 *(too long)*
