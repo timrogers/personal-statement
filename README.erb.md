@@ -10,7 +10,9 @@ Thoughts (and pull requests!) are appreciated. Do not plaigirise this - it's aga
 
 ## Personal statement *(preview)*
 
-<%= @ps %>
+<% @parts.each do |part| %>
+<%= part %>
+<% end %>
 
 __Words:__ <%= @words %>
 __Characters:__ <%= @characters %><%= " *(too long)*" if @characters.to_i > 4000 %>
