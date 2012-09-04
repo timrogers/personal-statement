@@ -1,0 +1,1 @@
+In conclusion, I believe that I am a highly motivated and mature student and I look forward to the opportunities that university study will present me, both academically and otherwise. I have no doubt that my choice of subject will prepare me well for my future career, and it will provide me with the chance to develop a whole range of other skills.

@@ -1,0 +1,7 @@
+Even since having left school, I have really enjoyed having the opportunity to pursue my academic interests further, seeking to broaden my knowledge across the social sciences and philosophy.
+
+In the political field, I am particularly interested in comparative politics and especially in the theory and practice behind the European Union, having developed my knowledge through reading Hix's "The Political System of the European Union". My interest in constitutions and their place in the state system encouraged me to look at different instances of constitutionalism, reading "The Government and Politics of France" by Knapp and McKay's "American Politics and Society".
+
+I've taken my first steps in the study of philosophy, with Blackburn's "Think" providing a useful foundation on the various basic issues of the field. Since reading that, I've moved onto classic texts such as those of Plato. I found Plato's commentary on piety in Euthyphro particularly captivating, encouraging me really to consider the different perspectives on morality and challenging me as a Christian.
+
+Based upon the latest worldwide events, my academic knowledge and reading and with my own opinions, I frequently write online articles analysing philosophical, political and economic issues, considering and evaluating the differing arguments and putting forward original ideas.
