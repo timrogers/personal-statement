@@ -15,7 +15,7 @@ task :generate do
   @parts = []
   
   part_filenames = Dir.entries("parts")
-  part_filenames.delete_if {|filename| !filename.include?(".txt") } # Remove the meta-directories
+  part_filenames.keep_if {|filename| filename.include?(".txt") or filename.include?(".md") } # Remove the meta-directories
   part_filenames.sort!
   part_filenames.each do |filename|
     @parts.push(File.read("parts/#{filename}"))
