@@ -3,10 +3,9 @@ require 'erb'
 task :generate do
   
   # Run me - I take the readme template in ERB
-  # with Markdown (README.erb.md), add the
-  # paragraphics from parts/ named in the
-  # variable sections and make it into a nice 
-  # full README.md to be displayed on GitHub.
+  # with Markdown (README.erb.md), store the
+  # paragraphs from parts/ in an array and save
+  # the word and character counts too.
   #
   # $ rake generate
   #
