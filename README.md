@@ -5,40 +5,32 @@ This is my personal statement, in progress, for applying to universities in the 
 ## Personal statement *(preview)*
 
 
-*Something will go here. I'm doing this bit last because it's horrible.*
+I believe that I am an ideal candidate for undergraduate study because I am intelligent and hard-working firstly, secondly I love my chosen subject and finally I have life and work experience that prepares me perfectly to study at a higher level.
 
-In my GCSE and A Level exams, I excelled across a range of subjects and I look forward to being able to continue onwards with my formal studies at an undergraduate level.
+First of all, I am an intelligent and discliplined worker in all that I do, whether in education or employment. In my GCSE and A Level exams, I excelled across a range of subjects, achieving excellent results across the board through independent hard work alongside my diligence in classes. Even outside of mere preparation for examinations, I always try to go the extra mile in everything I do, getting involved more deeply and learning as much as posible. Alongside my A2 work in politics, I applied and was selected to attend the annual Dicey Conference at Trinity College, Oxford, giving me the chance to debate political issues with the brightest politics students in the country. At my sixth form college, I organised a "Question Time" style event running alongside 2010's General Election, getting the chance to meet and speak with local prospective parliamentary candidates.
 
-Outside of preparations for examinations, I always try to go further, getting involved more deeply in what I'm studying. Alongside my A2 work in politics, I applied and was selected to attend the annual Dicey Conference at Trinity College, Oxford, giving me the chance to debate political issues with the brightest politics students in the country.
+I also am very much a self-starter. I have long enjoyed reading further into my academic subjects. I have also always sought to take employment in my spare time outside of school, college and university with a view to making the best use of my time and broadening my horizons.
 
-In my sixth form, I also organised a "Question Time" style event running alongside 2010's General Election, getting the chance to meet and speak with local prospective parliamentary candidates, and I represented the Labour Party in a mock election, compiling a speech on policies and taking part in a public debate.
+In my current role working full-time in a technology startup, GoCardless, I solely take responsibility for customer service, not just providing day-to-day help to customers, but also critically analysing and optimising the processes involved to increase the quality of my output and passing feedback I collect onto the rest of the team. I take great pride in my work both independent and as part of a larger team.
 
-I have long enjoyed reading further into my subjects, from reading French novels and poetry to investigating in-depth the French political system.
+Secondly, I have a deep and long-held love for what I want to study which spurs me on and inspires me to want to take it further and to work as hard as I can. I have been interested in politics for many years, but a defining moment when I first really engaged was when I was 11, when in my first few weeks at secondary school I made a speech to nearly 1000 people representing the Labour Party. Little did I know then that my passion would last, with me doing the same thing again at the age of 18 in my final year.
 
-Since having left school, I have really enjoyed having the opportunity to spending more time in pursuing my academic interests further, seeking to broaden my knowledge across the social sciences and philosophy.
+Politics for me is such an important subject because it affects our lives in so many ways. No matter what we do, where we live and what we aspire to, political decisions have an important impact - it is simply not true that politics is irrelevant. In my spare time, I am studying a course on digital democracy from University of Michigan, and my reading of texts on the political systems of Europe and further beyond is greatly broadening my knowledge.
 
-In the political field, I am interested in comparative politics and especially in the theory and practice behind the European Union, having developed my knowledge through reading Hix's "The Political System of the European Union". My interest in constitutions and their place in the state system also encouraged me to look at different instances of constitutionalism around the world, studying France and the USA in "The Government and Politics of France" by Knapp and McKay's "American Politics and Society" as two notable examples.
+I am also captivated by philosophy, which is so intruiging since it seeks to answer questions which are simply so fundamental to the human experience, such as those around morality or the existence of a Creator. Developing an understanding of philosophy and particularly the intellectual skills which this fosters is of great interest to me. The study of philosophy is also extremely relevant to my religious beliefs, with the questions and debates challenging my Christian faith and encouraging me to think more deeply. A prime example of this is Plato's disection of the concept of piety in "Euthyphro", which has encouraged me to consider more the foundations of morality and the nature of my God.
 
-I've also taken my first steps in the philosophy, with Blackburn's "Think" providing a useful foundation, introducing the basic issues to be considered. Since then, I've moved onto classic texts such as those of Plato where I have found the disection of the concept of piety in "Euthyphro" to be particularly captivating, encouraging me to more fully consider the different perspectives on morality and challenging me as a Christian.
+Finally, I have life and work experience which has allowed me to see what I can gain from university and how I can hope to do this. There are three goals in my desire to get to university: for one, I want to gain academic knowledge of my field. Secondly, I wish to hone and gain transferable skills such as the ability to research fully and present arguments clearly and effectively. Thirdly, I want to study alongside other engaged and passionnate people with whom I can develop my opinions and debate.
 
-Based upon the latest worldwide events, academic study and my own opinions, I greatly enjoy writing online articles analysing philosophical, political and economic issues, considering and evaluating the differing arguments and putting forward original ideas.
+In September 2011, I began studying European Social and Political Studies at University College London, but I did not find the course sufficiently challenging and inspiring to hold me to it. My primary motivation for undergraduate study is to learn as much as I can in the formal sense, but the structure of the course looking at so many different areas in only a trivial sense did not allow me to do this. I also found that my fellow students did not seem to share my passion and dedication to hard independent working, meaning there were few people with whom I could debate and discussed what I had learnt.
 
-In September 2011, I began studying European Social and Political Studies at University College London, but I did not find the course sufficiently challenging and inspiring. Not content to rest on my laurels, I opted to take the chance to work in a field of huge interest to me, technology, so I left to take up a job at a technology startup in the financial field, GoCardless.
+In February of this year, I decided to leave and take up an exciting job in a technology startup working in finance, satisfying a desire I had to at some point work in a technology company. My experience alongside my colleagues who attended the country's top universities has shown me that what I seek is available at university, and my leading role in work has reaffirmed my belief in the power of hard work, leaving me looking forward to the challenge of academia where I will be able to further develop.
 
-There, I am now working full time and I take complete responsibility for customer support and communication with clients, not only providing day-to-day service but also making business decisions, optimising processes and acting as the interface between the outside world and the team of developers who build the product.
-
-Whether working independently or collaboratively with colleagues, I am always a self-starter and I am keen to work hard to produce the best results possible.
-
-My leading role in such a small but highly skilled environment has provided me with great opportunities to mature and learn new skills, but I still keenly look forward to the opportunity to return to academic study to further develop my skills and broaden my horizons for the future.
-
-Outside of employment, I'm an active member of London's technology community, attending events and often speaking on technological topics and contributing with my free time to open source projects.
-
-I am also present in my local church, where I enjoy studying the Bible alongside other young people, but also helping look after young children and assisting on the church website.
+I now firmly believe that I am ready to return to study with a refreshed outlook and new maturity, hoping to study at one of the country's top universities where I will be able to learn, develop and debate and profit massively from the entire experience.
 
 In conclusion, I believe that I am a highly motivated and mature student and I look forward to the opportunities that university study will present me, both academically and otherwise. 
 
 My education and employment so far have put me in an ideal starting position, and I have no doubt that my studies at university will allow me to further develop and will prepare me for my future career.
 
 
-__Words:__ 710
-__Characters:__ 4418 *(too long)*
+__Words:__ 1010
+__Characters:__ 5766 *(too long)*
