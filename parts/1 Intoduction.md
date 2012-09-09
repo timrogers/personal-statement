@@ -1,1 +1,1 @@
-I believe that I am an ideal candidate for undergraduate study because I am intelligent and hard-working firstly, secondly I love my chosen subject and finally I have life and work experience that prepares me perfectly to study at a higher level.
+I believe that I am an ideal candidate for undergraduate study because I am intelligent and hard-working, I love my chosen subject and finally I have life and work experience that prepares me to study at a higher level.
