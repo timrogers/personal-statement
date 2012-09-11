@@ -13,9 +13,9 @@ I excelled in both my GCSE and A Level exams whilst pursuing my favoured subject
 
 I have always sought employment outside of my studies. Currently, I am working full-time in a technology startup, GoCardless. Having started as an intern, I expanded my role to take sole responsibility for customer service. Most recently, I planned and implemented a new phone system which dramatically improved call quality and introduced tracking to inform business decisions.
 
-I have a long-held love for what I want to study which inspires me to take it further. 
+I have a love for what I want to study which inspires me to take it further. 
 
-A defining moment for my active interest in politics was when at the age of eleven I made a speech in any assemply at school representing the Labour Party. Politics is such an important field because it affects our lives in so many ways, no matter our aspirations. It is by no means irrelevant. Presently, I am studying an online digital democracy course from University of Michigan, and my reading of texts on the politics of Europe and beyond is greatly broadening my knowledge.
+A defining moment for my long-held active interest in politics was when I made a speech in any assemply representing the Labour Party in my first weeks of secondary school. My enthusiasm has continued, with me doing the same in my final year. Politics is such an important field because it affects our lives in so many ways, no matter our aspirations. It is by no means irrelevant. Presently, I am studying an online digital democracy course from University of Michigan, and my reading of texts on the politics of Europe and beyond is greatly broadening my knowledge.
 
 Philosophy captivates me since it seeks to answer questions which are so fundamental to the human experience. An understanding of philosophy and the intellectual skills this fosters is of great importance to me. It is also relevant to my faith, challenging me to re-evaluate my beliefs. For instance, Plato's dissection of the piety in "Euthyphro" has encouraged me to consider more the foundations of Christian morality.
 
@@ -28,5 +28,5 @@ Since beginning employment in February, working alongside colleagues who attende
 In conclusion, I look forward to the opportunities that university presents, both academically and otherwise. My education and employment so far have put me in an ideal position to begin. I have no doubt that undergraduate studies will allow me to further develop and will prepare me for my future career.
 
 
-__Words:__ 570
-__Characters:__ 3483
+__Words:__ 583
+__Characters:__ 3560
