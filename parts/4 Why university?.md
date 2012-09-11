@@ -1,4 +1,4 @@
-I have three goals for my university experience: to gain formal academic knowledge; to gain and hone research and other academic skills and to develop my own ideas and debate with other pasionnate students.
+I have three goals for my university experience: to gain formal academic knowledge; to gain and hone research and other academic skills and to develop my own ideas and debate with other passionate students.
 
 In September 2011, I began studying European Social and Political Studies at University College London. I did not find the course sufficiently challenging considering that my primary aim is to gain as deep an understanding as possible. The course looked at many areas, but only in a trivial way. My fellow students seemed also not to share my passion and dedication, meaning a lack of scope for discussion.
 
