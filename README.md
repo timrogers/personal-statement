@@ -23,10 +23,10 @@ I have three goals for my university experience: to gain formal academic knowled
 
 In September 2011, I began studying European Social and Political Studies at University College London. I did not find the course sufficiently challenging considering that my primary aim is to gain as deep an understanding as possible. The course looked at many areas, but only in a trivial way. My fellow students seemed also not to share my passion and dedication, meaning a lack of scope for discussion.
 
-Since beginning employment in February, my work alongside colleagues who attended the country's top universities has shown me that what I seek from university is there to gain, and my leading position has reaffirmed my belief in independent hard work. Now I am certain that I am ready to return to study with a refreshed outlook and greater maturity, following an academic course where I will be able to learn, develop and debate.
+Since beginning employment in February, my work alongside colleagues who attended the country's top universities has reinforced by my belief in the value of further study. My achievements in the company have reaffirmed my belief in independent hard work. Now I am certain that I am ready to return to study with a refreshed outlook and greater maturity, following an academic course where I will be able to learn, develop and debate.
 
 In conclusion, I look forward to the opportunities that university presents, both academically and otherwise. My education and employment so far have put me in an ideal position to begin. I have no doubt that undergraduate studies will allow me to further develop and will prepare me for my future career.
 
 
-__Words:__ 582
-__Characters:__ 3539
+__Words:__ 581
+__Characters:__ 3542
