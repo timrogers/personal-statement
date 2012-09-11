@@ -1,5 +1,5 @@
 In both education and employment, I have demonstrated my intelligence, discipline, and self-motivation. 
 
-I excelled in both my GCSE and A Level exams whilst pursuing my favoured subjects in further depth. During my A Levels, I was selected to attend the Dicey Conference at Trinity College, Oxford. There, I debated political issues with the brightest politics students in the country. Further, for the 2010 General Election, I organised a "Question Time" event for local parliamentary candidates at my sixth form college. 
+I excelled in both my GCSE and A Level exams whilst pursuing my favoured subjects in further depth with reading and other activities. During my A Levels, I was selected to attend the Dicey Conference at Trinity College, Oxford. There, I debated political issues with the brightest politics students in the country. Further, for the 2010 General Election, I organised a "Question Time" event for local parliamentary candidates at my sixth form college. 
 
 I have always sought employment outside of my studies. Currently, I am working full-time in a technology startup, GoCardless. Having started as an intern, I expanded my role to take sole responsibility for customer service. Most recently, I implemented a new phone system which dramatically improved call quality and introduced tracking to inform business decisions.
