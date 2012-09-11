@@ -9,13 +9,13 @@ I believe that I am an ideal candidate for undergraduate study because I am inte
 
 In both education and employment, I have demonstrated my intelligence, discipline, and self-motivation. 
 
-I excelled in both my GCSE and A Level exams whilst pursuing my favoured subjects in further depth with reading and other activities. During my A Levels, I was selected to attend the Dicey Conference at Trinity College, Oxford. There, I debated political issues with the brightest politics students in the country. Further, for the 2010 General Election, I organised a "Question Time" event for local parliamentary candidates at my sixth form college. 
+I excelled in both my GCSE and A Level exams whilst pursuing my favoured subjects in further depth through reading and other activities. During my A Levels, I was selected to attend the Dicey Conference at Trinity College, Oxford. There, I debated political issues with the brightest politics students in the country. Further, for the 2010 General Election, I organised a "Question Time" event for local parliamentary candidates at my sixth form college. 
 
 I have always sought employment outside of my studies. Currently, I am working full-time in a technology startup, GoCardless. Having started as an intern, I expanded my role to take sole responsibility for customer service. Most recently, I planned and implemented a new phone system which dramatically improved call quality and introduced case tracking to inform business decisions.
 
 I have a love for what I want to study which inspires me to take it further. 
 
-A defining moment for my long-held active interest in politics was when I made a speech in an assembly in my first weeks of secondary school representing the Labour Party. My enthusiasm has continued, with me doing the same in my final year. Politics is such an important field because it affects our lives in so many ways, no matter our aspirations. It is by no means irrelevant. Presently, I am studying an online digital democracy course from University of Michigan, and my reading of texts on the politics of Europe and beyond is greatly broadening my knowledge.
+A defining moment for my long-held active interest in politics was when I made a speech in an assembly in my first weeks of secondary school representing the Labour Party. My enthusiasm has continued, with me doing the same in my final year. Politics is such an important field because it affects our lives in so many ways, no matter our aspirations. It is by no means irrelevant. Currently I am studying an online digital democracy course from University of Michigan, and my reading of texts on the politics of Europe and beyond is greatly broadening my knowledge.
 
 Philosophy captivates me since it seeks to answer questions which are so fundamental to the human experience. An understanding of philosophy and the intellectual skills this fosters is of great importance to me. It is also relevant to my faith, challenging me to re-evaluate my beliefs. For instance, Plato's dissection of the piety in "Euthyphro" has encouraged me to consider more the foundations of Christian morality.
 
@@ -29,4 +29,4 @@ In conclusion, I look forward to the opportunities that university presents, bot
 
 
 __Words:__ 586
-__Characters:__ 3567
+__Characters:__ 3569
