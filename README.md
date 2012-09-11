@@ -11,7 +11,7 @@ In both education and employment, I have demonstrated my intelligence, disciplin
 
 I excelled in both my GCSE and A Level exams whilst pursuing my favoured subjects in further depth with reading and other activities. During my A Levels, I was selected to attend the Dicey Conference at Trinity College, Oxford. There, I debated political issues with the brightest politics students in the country. Further, for the 2010 General Election, I organised a "Question Time" event for local parliamentary candidates at my sixth form college. 
 
-I have always sought employment outside of my studies. Currently, I am working full-time in a technology startup, GoCardless. Having started as an intern, I expanded my role to take sole responsibility for customer service. Most recently, I implemented a new phone system which dramatically improved call quality and introduced tracking to inform business decisions.
+I have always sought employment outside of my studies. Currently, I am working full-time in a technology startup, GoCardless. Having started as an intern, I expanded my role to take sole responsibility for customer service. Most recently, I planned and implemented a new phone system which dramatically improved call quality and introduced tracking to inform business decisions.
 
 I have a long-held love for what I want to study which inspires me to take it further. 
 
@@ -28,5 +28,5 @@ Since beginning employment in February, working alongside colleagues who attende
 In conclusion, I look forward to the opportunities that university presents, both academically and otherwise. My education and employment so far have put me in an ideal position to begin. I have no doubt that undergraduate studies will allow me to further develop and will prepare me for my future career.
 
 
-__Words:__ 568
-__Characters:__ 3471
+__Words:__ 570
+__Characters:__ 3483
