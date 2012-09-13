@@ -19,7 +19,7 @@ Whilst many of my peers feel that politics is irrelevant, I have long been fasci
 
 My enthusiasm for politics and debate is long-standing. At age 11, I represented he Labour Party in a mock election speech at school. Four years later, I did the same again. Further, for the 2010 General Election, I organised a "Question Time" event for local parliamentary candidates at my sixth form college. Currently I am broadening my knowledge by studying an course from University of Michigan on digital democracy and reading texts on the politics of Europe and beyond. 
 
-Philosophy captivates me since it seeks to answer questions which are so fundamental to the human experience. As a Christian, I have always looked further than the surface. My initial readings in philosophy have made me look deeper still. For instance, Plato's dissection of the piety in "Euthyphro" has encouraged me to consider more the foundations of Christian morality.
+Philosophy captivates me since it seeks to answer questions which are so fundamental to the human experience. As a Christian, I have always looked further than the surface. My initial readings in philosophy have made me look deeper still. For instance, Plato's dissection of the piety in "Euthyphro" has encouraged me to reconsider the moral foundations of my faith, reconciling the idea of the fundamentally good God whom I follow with the internal contradictions raised through Socrates.
 
 I have three motivations for attending university: to gain academic knowledge; to hone my research and other academic skills and to develop and debate my own ideas with other passionate students
 
@@ -30,5 +30,5 @@ Since beginning employment in February, my work alongside colleagues who attende
 In conclusion, I look forward to the opportunities that university presents, both academically and otherwise. My education and employment so far have put me in an ideal position to begin. I have no doubt that undergraduate studies will allow me to further develop and will prepare me for my future career.
 
 
-__Words:__ 570
-__Characters:__ 3466
+__Words:__ 588
+__Characters:__ 3582
