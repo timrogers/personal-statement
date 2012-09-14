@@ -21,14 +21,14 @@ My enthusiasm for politics and debate is long-standing. At age 11, I represented
 
 Philosophy captivates me since it seeks to answer questions which are so fundamental to the human experience. As a Christian, I have always looked further than the surface. My initial readings in philosophy have made me look deeper still. For instance, Plato's dissection of the piety in "Euthyphro" has encouraged me to reconsider the moral foundations of my faith, reconciling the idea of the fundamentally good God whom I follow with the internal contradictions raised through Socrates.
 
-I have three motivations for attending university: to gain academic knowledge; to hone my research and other academic skills and to develop and debate my own ideas with other passionate students
+Having already spent a term at university, I am clear about what I want from the experience: to develop the way I think; to immerse myself in subjects I love; and to continue to interact with brilliant and passionate students.
 
-In September 2011, I began studying European Social and Political Studies at University College London. I found the course too broad considering that my primary aim is to gain as deep an understanding as possible. The course looked at many areas, but only in a trivial way. My fellow students seemed also not to share my passion and dedication, meaning a lack of scope for discussion.
+In September 2011, I started at UCL studying European Social and Political Studies. With hindsight, choosing a course with a 50% language element was not the right decision. Whilst I enjoyed the breadth of the course, the emphasis on French left little time for other areas. In February I decided to leave and pursue a job offer from GoCardless with a view to returning to study in future.
 
-Since beginning employment in February, my work alongside colleagues who attended the country's top universities has reinforced by my belief in the value of further study. My achievements in the company have reaffirmed my belief in independent hard work. Now I am certain that I am ready to return to study with a refreshed outlook and greater maturity, following an academic course where I will be able to learn, develop and debate.
+My time at work has only increased my desire to return to university. I work with exceptionally talented people who have a depth of thought I now realise I can only gain from further study. I also miss spending time in the library trying to understand new concepts and being able to focus on politics. Working has also reinforced my belief in hard work, which I am determined to apply to my studies.
 
-In conclusion, I look forward to the opportunities that university presents, both academically and otherwise. My education and employment so far have put me in an ideal position to begin. I have no doubt that undergraduate studies will allow me to further develop and will prepare me for my future career.
+I believe I am an excellent candidate for undergraduate study. I have the intelligence and motivation to make the most of university. I have passion for my chosen subjects. I know now that university is the right decision for me and I look forward to the opportunities that it presents.
 
 
-__Words:__ 588
-__Characters:__ 3582
+__Words:__ 599
+__Characters:__ 3566
